@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson11Task</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="download_image_notification_channel">Download Image Notification Channel</string>
+    <string name="progress_bar_notification_channel">Progress Bar Notification Channel</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Go Back</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
